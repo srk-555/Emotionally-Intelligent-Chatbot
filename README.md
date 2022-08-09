@@ -3,7 +3,9 @@
   prospective students, which analyzes user conversation history in the backend to derive insights on the emotional state and
   sentiment of the user with respect to that college, in order to calculate his/her chances/interests of taking admission in the
   college. Trained around 70 intents with corresponding training examples and entities on Dialogflow.
+  
 • Retrieved all user conversation history from GCP, cleaned and prepared data, performed exploratory data analysis.
+
 • Used Twitter dataset to train models, confusion matrices and heatmaps to evaluate models. Achieved accuracy of 73.8%
 
 • Technologies Used :
