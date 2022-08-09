@@ -1,0 +1,11 @@
+Logs Explorer - 
+https://console.cloud.google.com/logs/query;query=resource.type%3D%22assistant_action%22%0Alabels.channel%3D%22preview%22;timeRange=2021-02-03T04:11:25.169Z%2F2021-04-03T05:11:25.169Z?project=emotionallyintelligentchatbot&pli=1
+
+Dialogflow - 
+https://dialogflow.cloud.google.com/#/agent/emotionallyintelligentchatbot/editIntent/c91f0b61-bf5a-483d-941b-e67e487ee7eb/
+
+Bot Console - 
+https://bot.dialogflow.com/9f8022bd-8204-4cf4-a28d-03ea64ee71b5
+
+PCCOER Webbot console - 
+https://pccoer-chatbot.netlify.app/

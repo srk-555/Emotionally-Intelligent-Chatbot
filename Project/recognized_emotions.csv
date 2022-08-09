@@ -1,0 +1,136 @@
+,timestamp,query,conversationId,Subjectivity,Polarity,Sentiment,emotion_recognized
+0,2021-03-23T18:44:33.303706420Z,cancel,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+1,2021-03-23T18:44:33.265263898Z,cancel,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+2,2021-03-23T18:44:28.782588770Z,Do i need to take original documents or photocopy is enough?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+3,2021-03-23T18:44:28.552189587Z,take original documents or photocopy is enough,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+4,2021-03-23T18:44:28.542482106Z,need to take original documents or photocopy is enough,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+5,2021-03-23T18:44:28.537970719Z,take original documents or photocopy is enough,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+6,2021-03-23T18:44:28.537939540Z,need to take original documents or photocopy is enough,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+7,2021-03-23T18:44:28.346636373Z,Do i need to take original documents or photocopy is enough?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+8,2021-03-23T18:44:28.337901566Z,Do i need to take original documents or photocopy is enough?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.625,0.1875,Positive,neutral
+9,2021-03-23T18:44:22.868066026Z,Is there any facility to playground,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,not satisfied
+10,2021-03-23T18:44:22.568526059Z,Is there any facility to playground,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,not satisfied
+11,2021-03-23T18:44:22.559702290Z,Is there any facility to playground,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,not satisfied
+12,2021-03-23T18:44:17.733702407Z,Can i apply online for admssion?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+13,2021-03-23T18:44:17.416354369Z,Can i apply online for admssion?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+14,2021-03-23T18:44:17.397089051Z,Can i apply online for admssion?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+15,2021-03-23T18:44:09.224407504Z,What documents are required while taking admission?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,excited
+16,2021-03-23T18:44:08.948865671Z,what are the document required for admission,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+17,2021-03-23T18:44:08.943604411Z,documents required to take admission in,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+18,2021-03-23T18:44:08.942069621Z,documents required to take admission in,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+19,2021-03-23T18:44:08.936987712Z,what documents required for admission,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+20,2021-03-23T18:44:08.933947252Z,what are the document required for admission,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+21,2021-03-23T18:44:08.926702130Z,what documents required for admission,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+22,2021-03-23T18:44:08.760168761Z,What documents are required while taking admission?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,excited
+23,2021-03-23T18:44:08.759740355Z,What documents are required while taking admission?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,excited
+24,2021-03-23T18:44:03.132894330Z,What are the college placements,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+25,2021-03-23T18:44:02.795403522Z,what is college placement,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+26,2021-03-23T18:44:02.792640130Z,what are college placements,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+27,2021-03-23T18:44:02.791106394Z,what are college placements,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+28,2021-03-23T18:44:02.787347355Z,what are placements in college,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+29,2021-03-23T18:44:02.785465110Z,what are placements in college,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+30,2021-03-23T18:44:02.770050450Z,what is college placement,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+31,2021-03-23T18:44:02.641913293Z,What are the college placements,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+32,2021-03-23T18:44:02.640656877Z,What are the college placements,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+33,2021-03-23T18:43:57.114945633Z,Do you accept jee score?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+34,2021-03-23T18:43:56.830270884Z,Do you accept jee score?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+35,2021-03-23T18:43:56.810005641Z,Do you accept jee score?,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+36,2021-03-23T18:43:27.447192932Z,Talk to Prof. Luke,ABwppHFytFmvILim0c05ICIzUW4olsNOACwPAt7ffxuz8nz-759f5hqxY3qMNLaNvvFlMlfAwn8RKEyJVCvvqOGLfNCe00wUQuGBah8,0.0,0.0,Neutral,neutral
+37,2021-03-23T15:07:58.212803854Z,eligibility percentage,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+38,2021-03-23T15:07:58.025813385Z,what is eligibility for admission percentage,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+39,2021-03-23T15:07:58.021211017Z,what is eligibility for admission percentage,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+40,2021-03-23T15:07:57.818101393Z,eligibility percentage,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+41,2021-03-23T15:07:57.815002925Z,eligibility percentage,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+42,2021-03-23T15:07:30.824161659Z,what is the eligibility criteria for admission?,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+43,2021-03-23T15:07:30.533540438Z,eligibility criteria for me admission,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+44,2021-03-23T15:07:30.529636515Z,what is admission requirements,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+45,2021-03-23T15:07:30.528678848Z,eligibility criteria for me admission,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+46,2021-03-23T15:07:30.523847504Z,criteria for admission,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+47,2021-03-23T15:07:30.508268943Z,what is admission requirements,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+48,2021-03-23T15:07:30.504743487Z,criteria for admission,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+49,2021-03-23T15:07:30.375362155Z,what is the eligibility criteria for admission?,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+50,2021-03-23T15:07:30.373596136Z,what is the eligibility criteria for admission?,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+51,2021-03-23T15:07:07.668923680Z,tell me more,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.5,0.5,Positive,neutral
+52,2021-03-23T15:07:07.362826250Z,tell me more,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.5,0.5,Positive,neutral
+53,2021-03-23T15:07:07.332712600Z,tell me more,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.5,0.5,Positive,neutral
+54,2021-03-23T15:06:38.302344176Z,Can I ask you something,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+55,2021-03-23T15:06:37.960262410Z,Can I ask you something,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+56,2021-03-23T15:06:37.955065481Z,Can I ask you something,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+57,2021-03-23T15:06:13.598939400Z,Talk to Prof. Luke,ABwppHGwUfyqZrPToO53cGz3fap_GOU_k2ieGy-puRR8HfwOuQxk_iTXwQcsM-7ljxuSnRdmdGgMMMp9WOBhfJcXPphmH3rb_Fn2ZvU,0.0,0.0,Neutral,neutral
+58,2021-03-23T15:05:43.273027198Z,bus facility,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,disgust
+59,2021-03-23T15:05:43.258246842Z,bus facility,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,disgust
+60,2021-03-23T15:05:31.214698303Z,Do i need to take original documents or photocopy is enough?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.625,0.1875,Positive,neutral
+61,2021-03-23T15:05:30.866972010Z,Do i need to take original documents or photocopy is enough?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.625,0.1875,Positive,neutral
+62,2021-03-23T15:05:30.846539715Z,Do i need to take original documents or photocopy is enough?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.625,0.1875,Positive,neutral
+63,2021-03-23T15:04:39.073960130Z,does college has library?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+64,2021-03-23T15:04:38.667692084Z,does college has library?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+65,2021-03-23T15:04:38.652227997Z,does college has library?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+66,2021-03-23T15:04:17.605693122Z,I want to contact the college for more enquiry,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.5,0.5,Positive,neutral
+67,2021-03-23T15:04:17.215105252Z,I want to contact the college for more enquiry,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.5,0.5,Positive,neutral
+68,2021-03-23T15:04:17.194598724Z,I want to contact the college for more enquiry,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.5,0.5,Positive,neutral
+69,2021-03-23T15:04:00.065585518Z,Tell me about your college campus,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+70,2021-03-23T15:03:59.634147557Z,Tell me about your college campus,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+71,2021-03-23T15:03:59.616375969Z,Tell me about your college campus,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+72,2021-03-23T15:03:33.586735263Z,o you accept jee mains score?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+73,2021-03-23T15:03:33.268746828Z,o you accept jee mains score?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+74,2021-03-23T15:03:33.262621141Z,o you accept jee mains score?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+75,2021-03-23T15:03:08.338637906Z,thanks,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.2,0.2,Positive,neutral
+76,2021-03-23T15:03:08.030485144Z,thanks,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.2,0.2,Positive,neutral
+77,2021-03-23T15:03:08.017493884Z,thanks,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.2,0.2,Positive,neutral
+78,2021-03-23T15:02:51.201906301Z,enroll online\,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,not satisfied
+79,2021-03-23T15:02:50.909621613Z,enroll online\,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,not satisfied
+80,2021-03-23T15:02:50.868410884Z,enroll online\,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,not satisfied
+81,2021-03-23T15:02:24.199576255Z,what can you do?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+82,2021-03-23T15:02:23.415440486Z,what can you do?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+83,2021-03-23T15:02:22.831420279Z,what can you do?,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+84,2021-03-23T15:02:14.080185026Z,Talk to Prof. Luke,ABwppHFNjbDreoSs21sLaU-6-kJ_WLdkBYEfgoMh4JsOs_LPhW9CkN41fVGgcr6Xa52CaJ5tFflRDKoSx3sVhuWrTMmXawpRuCa-CIQ,0.0,0.0,Neutral,neutral
+85,2021-03-23T15:01:56.093095361Z,exit,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.0,0.0,Neutral,neutral
+86,2021-03-23T15:01:56.054282178Z,exit,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.0,0.0,Neutral,neutral
+87,2021-03-23T15:01:44.753475526Z,great,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.75,0.8,Positive,happy
+88,2021-03-23T15:01:44.414412530Z,great,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.75,0.8,Positive,happy
+89,2021-03-23T15:01:44.405552383Z,great,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.75,0.8,Positive,happy
+90,2021-03-23T15:01:14.848531163Z,Do you accept results other than CET or JEE?,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.375,-0.125,Negative,neutral
+91,2021-03-23T15:01:14.307261473Z,Do you accept results other than CET or JEE?,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.375,-0.125,Negative,neutral
+92,2021-03-23T15:01:14.285983342Z,Do you accept results other than CET or JEE?,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.375,-0.125,Negative,neutral
+93,2021-03-23T15:00:47.823270032Z,Talk to Prof. Luke,ABwppHHwBu24crj_CEmh0otyMjEePyGZxeURdxi2ng5YT9Izvx4_jIx9FDL_UhyXbnt44Kc95aTOFoQQoH8KXePzIOvpvvEeazHK4CA,0.0,0.0,Neutral,neutral
+94,2021-03-23T12:19:15.884829201Z,thanks for the info,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.2,0.2,Positive,happy
+95,2021-03-23T12:19:15.453059813Z,thanks for the info,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.2,0.2,Positive,happy
+96,2021-03-23T12:19:15.440557354Z,thanks for the info,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.2,0.2,Positive,happy
+97,2021-03-23T12:19:03.239340142Z,what is your ambition,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+98,2021-03-23T12:19:01.948265397Z,what is your ambition,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+99,2021-03-23T12:19:01.940234244Z,what is your ambition,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+100,2021-03-23T12:18:41.942648559Z,what can you do,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+101,2021-03-23T12:18:41.507175858Z,what can you do,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+102,2021-03-23T12:18:41.505785211Z,what can you do,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+103,2021-03-23T12:18:32.504517750Z,who are you btw,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,happy
+104,2021-03-23T12:18:31.931394034Z,who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+105,2021-03-23T12:18:31.872742954Z,then who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+106,2021-03-23T12:18:31.838636442Z,then who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+107,2021-03-23T12:18:31.831746811Z,hey assistant who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+108,2021-03-23T12:18:31.787504002Z,who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+109,2021-03-23T12:18:31.760674604Z,hey assistant who are you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+110,2021-03-23T12:18:31.662648072Z,who are you btw,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,happy
+111,2021-03-23T12:18:31.590647404Z,who are you btw,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,happy
+112,2021-03-23T12:18:18.513292621Z,i like you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+113,2021-03-23T12:18:18.086909486Z,i like you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+114,2021-03-23T12:18:18.077571458Z,i like you,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+115,2021-03-23T12:18:10.904830765Z,great,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.75,0.8,Positive,happy
+116,2021-03-23T12:18:10.507971743Z,great,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.75,0.8,Positive,happy
+117,2021-03-23T12:18:10.498492519Z,great,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.75,0.8,Positive,happy
+118,2021-03-23T12:17:47.226032205Z,what are placements like,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+119,2021-03-23T12:17:46.972105665Z,hostel what are placements like,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+120,2021-03-23T12:17:46.954657288Z,hostel what are placements like,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+121,2021-03-23T12:17:46.778200944Z,what are placements like,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+122,2021-03-23T12:17:46.776098661Z,what are placements like,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+123,2021-03-23T12:17:28.460875963Z,is hostel good,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.6000000000000001,0.7,Positive,satisfied
+124,2021-03-23T12:17:28.163741296Z,is hostel any good,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.6000000000000001,0.7,Positive,satisfied
+125,2021-03-23T12:17:28.145385570Z,is hostel any good,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.6000000000000001,0.7,Positive,satisfied
+126,2021-03-23T12:17:28.009052111Z,is hostel good,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.6000000000000001,0.7,Positive,satisfied
+127,2021-03-23T12:17:27.997548984Z,is hostel good,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.6000000000000001,0.7,Positive,satisfied
+128,2021-03-23T12:17:12.244685529Z,how is the mess,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.175,-0.175,Negative,neutral
+129,2021-03-23T12:17:11.706343689Z,how is the mess,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.175,-0.175,Negative,neutral
+130,2021-03-23T12:17:11.689533746Z,how is the mess,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.175,-0.175,Negative,neutral
+131,2021-03-23T12:16:23.951587935Z,what are the fees,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+132,2021-03-23T12:16:23.310944504Z,what are the fees,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+133,2021-03-23T12:16:23.303215047Z,what are the fees,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
+134,2021-03-23T12:16:00.703504896Z,Talk to Prof. Luke,ABwppHFmYKubM_GrWY104rF4edjPV8gpc1lYJos35KL-k2Iv5CccUXchKg2acvqd1oEgUY8vj1qfIuHZQttkSYVjO8wsW--TNSbj-A,0.0,0.0,Neutral,neutral
